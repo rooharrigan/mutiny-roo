@@ -1,6 +1,6 @@
 
 # To run locally
-1. git clone this repo and CD into it
+1. git clone this repo and `cd` into it
 2. install ngrok and run `ngrok http 3000`
 3. run `npm start`
 4. Verify the app is running on `localhost:3000/`
